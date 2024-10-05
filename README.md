@@ -20,11 +20,11 @@ Sigue estos pasos para clonar el repositorio y configurar el proyecto:
 
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   https://github.com/ajvsubotich/playwright-cucumber-ts.git
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd tu-repositorio
+   cd playwright-cucumber-ts
    
 3. Instala las dependencias del proyecto utilizando npm:
    ```bash
