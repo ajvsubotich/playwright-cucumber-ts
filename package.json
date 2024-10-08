@@ -1,0 +1,16 @@
+{
+  "name": "playwright-cucumber-ts",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene las automatizaciones de pruebas para [saucedemo.com](https://www.saucedemo.com), incluyendo pruebas de regresión, end-to-end (E2E) y accesibilidad utilizando Playwright, Cucumber, y Axe.",
+  "main": "index.js",
+  "scripts": {
+    "test":"npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^22.7.5"
+  }
+}
