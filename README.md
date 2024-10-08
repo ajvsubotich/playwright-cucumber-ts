@@ -77,6 +77,13 @@ npx playwright test --grep @tag
 
 Las etiquetas (@tag) pueden encontrarse dentro de cada archivo de prueba.
 
+
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧#UNDER CONSTRUCTION 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+
+
+
 ## Ejecución en Docker
 
 Si prefieres ejecutar las pruebas en un contenedor Docker, asegúrate de tener Docker instalado y luego usa el siguiente comando:
